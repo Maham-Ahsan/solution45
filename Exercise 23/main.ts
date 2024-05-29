@@ -46,6 +46,6 @@ console.log("Is car? I predict True.");
 console.log(car); //True (non-empty string is truthy)
 
 
-//Test 9: Checking Falsiness (False)
+//Test 10: Checking Falsiness (False)
 console.log("Is !car? I predict False.");
 console.log(!car); //False (negation of a truthy value)
